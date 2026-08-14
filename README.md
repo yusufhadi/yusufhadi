@@ -32,12 +32,6 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufhadi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufhadi/yusufhadi/output/github-contribution-grid-snake-dark.svg">
