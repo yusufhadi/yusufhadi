@@ -28,8 +28,8 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="Hadi Yusuf's GitHub Stats" width="49.5%" height="195" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true&card_width=419&v=2" alt="Top Languages" width="49.5%" height="195" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=3" alt="Hadi Yusuf's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true&card_width=369&v=3" alt="Top Languages" width="49.5%" />
 </div>
 
 <div align="center">
