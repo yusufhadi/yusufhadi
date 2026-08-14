@@ -28,14 +28,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true" alt="Hadi Yusuf's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Hadi Yusuf's GitHub Stats" height="175" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yusufhadi&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufhadi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 <br />
