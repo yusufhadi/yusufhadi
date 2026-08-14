@@ -25,11 +25,11 @@
 ### Tools
 ![My Skills](https://skillicons.dev/icons?i=vscode,postman,github,gitlab,figma,notion,git,discord)
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hadi Yusuf's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=yusufhadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hadi Yusuf's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yusufhadi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <br />
@@ -38,10 +38,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufhadi&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
-<br />
-
-### 🎮 Pacman Contribution Eating Animation
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yusufhadi/yusufhadi/output/github-contribution-grid-snake-dark.svg">
@@ -49,3 +45,4 @@
     <img alt="GitHub Contribution Pacman Animation" src="https://raw.githubusercontent.com/yusufhadi/yusufhadi/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
+
